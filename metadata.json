@@ -1,0 +1,7 @@
+{
+  "name": "TaskForge - Day 1 Task Foundation",
+  "description": "Day 1 project foundation: CRUD review, frontend vs backend vs database architecture, task data model, responsive task-list UI with Add Task form, and recorded API route specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
